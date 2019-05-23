@@ -1,0 +1,70 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 21.05.2019 16:36:48
+
+newmtl Speaker_def_surf_mat
+	Ns 98.0392
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.6560 0.6640 0.6960
+	Ks 0.1500 0.1500 0.1500
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Material__40
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\ricardocv2\Desktop\Spika\Grey_full.png
+	map_Kd C:\Users\ricardocv2\Desktop\Spika\Grey_full.png
+
+newmtl Material__52
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\ricardocv2\Desktop\Spika\96226390-the-grille-from-the-speaker-texture-close-up.jpg
+	map_Kd C:\Users\ricardocv2\Desktop\Spika\96226390-the-grille-from-the-speaker-texture-close-up.jpg
+
+newmtl Material__65
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\ricardocv2\Desktop\Spika\93203602-closed-up-of-smooth-stone-black-road-asphalt-texture-background.jpg
+	map_Kd C:\Users\ricardocv2\Desktop\Spika\93203602-closed-up-of-smooth-stone-black-road-asphalt-texture-background.jpg
+
+newmtl Material__78
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\ricardocv2\Desktop\Spika\93203602-closed-up-of-smooth-stone-black-road-asphalt-texture-background.jpg
+	map_Kd C:\Users\ricardocv2\Desktop\Spika\93203602-closed-up-of-smooth-stone-black-road-asphalt-texture-background.jpg
